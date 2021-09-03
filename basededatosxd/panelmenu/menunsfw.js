@@ -70,6 +70,7 @@ const menunsfw = (prefix, sender) => {
   _*USO DE CODIGOS NUCLEARES*_
 ║➩ ❍ ${prefix}nhentaibuscar
 ║➩ ❍ ${prefix}nhentaipdf
+║➩ ❍ ${prefix}TetAz.
 ╚══════════════╝
   
   ‼Por favor no saturar los comandos ‼
